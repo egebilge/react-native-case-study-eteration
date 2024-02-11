@@ -1,6 +1,6 @@
 import { createStackNavigator } from "@react-navigation/stack"
 import { moderateScale } from "react-native-size-matters"
-import FavoritesScreen from "../../screens/favorites/FavoritesScreen"
+import { FavoritesScreen } from "../../screens/favorites/FavoritesScreen"
 
 const Stack = createStackNavigator()
 
